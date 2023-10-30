@@ -21,3 +21,5 @@ You can defend yourself from the Enemy's attacks, but you cannot defend yourself
 When you leave the enemy's field of vision, he starts an animation and if you don't get into his field of vision quickly, he will return to patrol.
 
 There are a lot of things, you can look at the videos, ok? Thanks
+
+Video: https://mega.nz/file/MxgVgSpD#IXiHjXZ6bMU__CWcMsJ9OVRs8OjBQMThRUiHWqtadJ8
