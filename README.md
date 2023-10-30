@@ -17,4 +17,7 @@ Every 15 seconds, if you hold down the K key for 3 seconds the power bar will go
 - Shield system
 You can defend yourself from the Enemy's attacks, but you cannot defend yourself from his fireball. When the defense bar runs out, you will not be able to defend yourself, but it will start to recover, then you will be able to defend yourself.
 
+- Look Around System
+When you leave the enemy's field of vision, he starts an animation and if you don't get into his field of vision quickly, he will return to patrol.
+
 There are a lot of things, you can look at the videos, ok? Thanks
